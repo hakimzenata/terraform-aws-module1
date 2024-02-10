@@ -3,3 +3,7 @@ terraform {
     
   }
 }
+
+provider "aws" {
+  
+}
